@@ -10,9 +10,10 @@
 - 10' - Class discussion on the preparatory work 
 - 15' - Break 
 - 45' - From wet to dry: step by step from DNA to sequence
-- 15' - Break 
+- 10' - Break 
 - 30' - Where can I find genome sequences? introduction of sequence repositories and sequence file format
 - 20' - Linux corner: A quick tour on downloading raw reads using command line 
+-  5' - Self-assessment 
 
 ### From wet to dry: step by step from DNA to sequence
 #### Suggested videos
