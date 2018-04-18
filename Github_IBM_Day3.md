@@ -42,13 +42,13 @@ Prepare a 15 minute presentation including:
 #### Suggested reading
 [Paper comparing platform for bacterial annotation and comparative genomics](https://www.sciencedirect.com/science/article/pii/S0168165617315225?via%3Dihub)
 #### Online resources
-[Ortholugedb](http://www.pathogenomics.sfu.ca/ortholugedb/)
-[Edgar](https://edgar.computational.bio.uni-giessen.de/cgi-bin/edgar_login.cgi?cookie_test=1&open=1)
-[Patric](https://www.patricbrc.org/)
-[Microbial Genome Database for Comparative Analysis](http://mbgd.genome.ad.jp/)
-[MicrobesOnline](http://www.microbesonline.org/)
-[MicroScope](http://www.genoscope.cns.fr/agc/microscope/home/index.php)
-[EZbiocloud](https://www.ezbiocloud.net/)
-[viruSITE—integrated database for viral genomics](http://www.virusite.org/)
+* [Ortholugedb](http://www.pathogenomics.sfu.ca/ortholugedb/)
+* [Edgar](https://edgar.computational.bio.uni-giessen.de/cgi-bin/edgar_login.cgi?cookie_test=1&open=1)
+* [Patric](https://www.patricbrc.org/)
+* [Microbial Genome Database for Comparative Analysis](http://mbgd.genome.ad.jp/)
+* [MicrobesOnline](http://www.microbesonline.org/)
+* [MicroScope](http://www.genoscope.cns.fr/agc/microscope/home/index.php)
+* [EZbiocloud](https://www.ezbiocloud.net/)
+* [viruSITE—integrated database for viral genomics](http://www.virusite.org/)
 
 > Written with [StackEdit](https://stackedit.io/).
