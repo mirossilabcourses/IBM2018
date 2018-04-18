@@ -58,7 +58,7 @@ INNUca is written in `python`and it requires a lot of dependencies. Fortunately 
 > ##### What's Docker? 
 > A tutorial for beginners is available [here](https://docker-curriculum.com/).
 
-I will show you how to run it using [Docker for Mac](https://docs.docker.com/docker-for-mac/install/), but please note there is also [Docker for Windows 10](https://docs.docker.com/docker-for-windows/install/) which works exactly the same (ad of course you can run docker in Linux too). 
+I will show you how to run it using [Docker for Mac](https://docs.docker.com/docker-for-mac/install/), but please note there is also [Docker for Windows 10](https://docs.docker.com/docker-for-windows/install/) which works exactly the same (and of course you can run docker in Linux too). 
 I will also give you some tips, and believe me **IT IS REALLY SIMPLE**. A [tutorial](https://github.com/INNUENDOCON/MicrobialGenomeMetagenomeCourse/blob/master/MPM_workingwithINNUCA.md) on INNUca using docker was written for a course organised last year.
 Below the **INNUca** basic command using docker image.
 ```bash
