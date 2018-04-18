@@ -10,7 +10,8 @@
 * 45' - Variant calling 
 * 15' - Break
 * 45' - Functional annotation of genes and orthology definition
-* 15' - Homework 
+* 10' - Homework 
+*  5' - Self-assessment 
 ### What species did I sequence?
 Frequently the first action you would like to perform after receiving the sequences is checking the species of your sample, or in case you are studying a novel taxon, you would like to compare the samples with known species. Some pipelines, such as `INNUca`, have implemented several modules including species confirmation steps. For example, you might infer the species by calling (or try to) the MLST type (if a schema is available). For doing that `INNUca` call a very nice software designed by T. Seemann: [*mlst*](https://github.com/tseemann/mlst). The software scans contig files against traditional [PubMLST](https://pubmlst.org/databases/) typing schemes and giving the ST. The software it is very easy to use also in command line just by typing `% mlst contigs.fa` after you have installed it in a Linux OS. You can do manually what *mlst* does by e.g. going to one of the available PubMLST database and call the ST of your sample after uploading the contig file. 
 
