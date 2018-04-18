@@ -38,7 +38,7 @@ Using FASTQC is pretty easy, but it might take some time to understand how to in
 		* R [1](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR557/009/SRR5575009/SRR5575009_1.fastq.gz) and [2](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR557/009/SRR5575009/SRR5575009_2.fastq.gz) before trimming
 		* R [1](https://www.dropbox.com/s/9jucxjms632h8jy/SRR5575009_1P.fastq.gz?dl=0) and [2](https://www.dropbox.com/s/9ksne5wcd8yvmfv/SRR5575009_2P.fastq.gz?dl=0) after trimming 
 		trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:248 HEADCROP:15 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
-### From raw sot reads to an assembly
+### From raw short reads to an assembly
 #### Suggested readings and videos
 * [M.Watson post on short protein preictin in longrea and hrid assebl](http://www.opiniomics.or/withgreatpoercomesgreatresonsibilit/)
 * [*Video* on Genome assembly](https://www.youtube.com/watch?v=sysnKQvqmnk)
