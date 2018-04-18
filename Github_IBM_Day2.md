@@ -52,7 +52,7 @@ Access the [web application](https://192.92.149.157/app/) and login using the ID
 #### Activity 2 - Compare different assemblies 
 For this activity you will use the web application of [QUAST](http://quast.bioinf.spbau.ru/). 
 I have download the raw reads of three *C. coli* strains for which *reference* genome assemblies (hybrid assembly using Illumina and PacBio) were available (more information in this publication "[Generating tools for the molecular epidemiology of *Campylobacter coli* by next generation genome sequencing](https://www.food.gov.uk/sites/default/files/fs101087finalreport.pdf)"). Raw illumina fastQ were *de novo* assembled with `SKESA` or `SPAdes`. `SKESA`was running using default settings, while `SPAdes` was running using the QA/QC pipeline `INNUca`. The assemblies of the three samplgenomes are available at this [link](https://www.dropbox.com/sh/dopklm8cgg5g3pj/AACidpm9Do6hRi_jq8A29XK4a?dl=0). **What are the differences between SKESA and SPAdes?**  
-### Linux corner - ssemy using INNUca within a Docker container 
+### Linux corner - Assembly using INNUca within a Docker container 
 INNUca is written in `python`and it requires a lot of dependencies. Fortunately you can run it in a [Docker](https://www.docker.com/what-docker) container. This allows you to run it in whatever platforms or computer settings. 
 
 > ##### What's Docker? 
