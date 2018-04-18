@@ -8,9 +8,10 @@
 * 45' - Anatomy of a fastQ: assessing quality of short reads and preprocessing
 * 15' - Break
 * 45' - From raw reads to an assembly
-* 15' - Break
+* 10' - Break
 * 20' - Quality assessment of the assembly 
-* 20' - Linux corner: a quick tour on assembling genomes on command line using docker 
+* 20' - Linux corner: a quick tour on assembling genomes on command line using docker
+*  5' - Self-assessment
 ### Anatomy of a fastQ
 #### Suggested readings and video
 * [Quality Scores for Next-Generation Sequencing](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf)
