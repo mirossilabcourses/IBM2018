@@ -4,7 +4,7 @@ The aim of the course is to provide participants with basic knowledge of bioinfo
 | Day               |Content                          |Time                         |
 |--------------------|-------------------------------|-----------------------------|
 | [1](https://github.com/mirossilabcourses/IBM2019/blob/master/Github_IBM_Day1.md)  |Step by step from DNA to sequence & Introduction of sequence repositories and sequence file format|Wed-18.04.18 13:00-16:00 (EE-building, B437)|
-| [2]()  |Assessing quality of short reads, preprocessing & assembly|Thu-19.04.18 13:00-16:00 (EE-building, B438)|
+| [2](https://github.com/mirossilabcourses/IBM2019/blob/master/Github_IBM_Day2.md)  |Assessing quality of short reads, preprocessing & assembly|Thu-19.04.18 13:00-16:00 (EE-building, B438)|
 | [3]()  |Species delineation, variant calling & annotation|Fri-20.04.18 12:00-15:00 (EE-building, B347)|
 | [4]()   |Comparative genomics (Student presentation *homework*)|Wed-02.05.18 13:00-16:00 (EE-building, B347)|
 | [5]()   | Phylogenetic methods|Thu-03.05.18 13:00-16:00 (EE-building, B347)|
