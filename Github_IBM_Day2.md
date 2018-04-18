@@ -16,7 +16,7 @@
 * [Quality Scores for Next-Generation Sequencing](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf)
 * [Manual of Trimmomatic](https://www.google.fi/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjL_vLMjcPaAhVQKywKHSCqAVsQFggnMAA&url=http%3A%2F%2Fwww.usadellab.org%2Fcms%2Fuploads%2Fsupplementary%2FTrimmomatic%2FTrimmomaticManual_V0.32.pdf&usg=AOvVaw1UrW4bh4XHUrc0Y9o7K9O1)
 * [Blog on common NGS problems](https://sequencing.qcfail.com/)
-* [A post on duplication](http://proteo.me.uk/2013/09/a-new-way-to-look-at-duplication-in-fastqc-v0-11/)
+* [A post on duplication in FastQC](http://proteo.me.uk/2013/09/a-new-way-to-look-at-duplication-in-fastqc-v0-11/)
 * [*Video* on Base calling and quality score](https://www.youtube.com/watch?v=U4QnpciIJhM&t=8s)
 
 #### Activity 1- Coverage estimation
