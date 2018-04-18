@@ -131,7 +131,7 @@ getSeqENA.py --listENAids ~/reads/streptococcus_agalactiae_example/ids.txt \
 
 # Runtime :0.0h:2.0m:10.12s
 ```
-#### Extra activities - The 10th anniversary of EMBL-EBI training treasure hunt
+#### Extra activity - The 10th anniversary of EMBL-EBI training treasure hunt
 
 In August 2017 EMBL-EBI training celebrated 10 years of. As part of the anniversary celebrations, trainers across EMBL-EBI created a [10th anniversary treasure hunt](https://www.ebi.ac.uk/training/online/course/10th-anniversary-treasure-hunt) that allows users to travel across the various databases and discover the breadth of data available to them
 
