@@ -45,11 +45,11 @@ Using FASTQC is pretty easy, but it might take some time to understand how to in
 * [*Video* of a lecture at MIT on genome assembly](https://www.youtube.com/watch?v=ZYW2AeDE6wU)
 * [*Video* on Andrey Prjibelski presentation on SPAdes 3.1 (now is 3.11)](https://www.youtube.com/watch?v=vFA7BGzNMss)
 ###  Quality assessment of the assembly 
-#### Activity 1 - Explore INNUca sample statistics report
+#### Activity 3 - Explore INNUca sample statistics report
 `INNUca` offers an efficient bacterial *de novo* assembly pipeline with integrated QA/QC steps. The workflow allow the user to control the assembly process and identify reasons responsible of producing assemblies of low or not sufficient uality. For this activity you will explore the INNUca sample statistics report using the application INNUENDO platform developed within the project [INNUENDO](http://www.innuendoweb.org) which I coordinate. The platform have been developed by an amazing [team of students leaded by Dr. João Carriço from University of Lisbon](https://github.com/B-UMMI).
 Access the [web application](https://192.92.149.157/app/) and login using the ID&Password I will show during the class. Download the file available at this [link](https://www.dropbox.com/s/yqq3jmn7cr1fqn3/IBM.json?dl=0). Within the platform click on `Reports`and Drag&Drop the file.
 
-#### Activity 2 - Compare different assemblies 
+#### Activity 4 - Compare different assemblies 
 For this activity you will use the web application of [QUAST](http://quast.bioinf.spbau.ru/). 
 I have download the raw reads of three *C. coli* strains for which *reference* genome assemblies (hybrid assembly using Illumina and PacBio) were available (more information in this publication "[Generating tools for the molecular epidemiology of *Campylobacter coli* by next generation genome sequencing](https://www.food.gov.uk/sites/default/files/fs101087finalreport.pdf)"). Raw illumina fastQ were *de novo* assembled with `SKESA` or `SPAdes`. `SKESA`was running using default settings, while `SPAdes` was running using the QA/QC pipeline `INNUca`. The assemblies of the three samplgenomes are available at this [link](https://www.dropbox.com/sh/dopklm8cgg5g3pj/AACidpm9Do6hRi_jq8A29XK4a?dl=0). **What are the differences between SKESA and SPAdes?**  
 ### Linux corner - Assembly using INNUca within a Docker container 
