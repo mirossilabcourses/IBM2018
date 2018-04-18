@@ -40,7 +40,7 @@ Using FASTQC is pretty easy, but it might take some time to understand how to in
 		trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:248 HEADCROP:15 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
 ### From raw short reads to an assembly
 #### Suggested readings and videos
-* [M.Watson post on short protein preictin in longrea and hrid assebl](http://www.opiniomics.or/withgreatpoercomesgreatresonsibilit/)
+* [M.Watson post on short proteins in long-read single molecule assembly](http://www.opiniomics.org/with-great-power-comes-great-responsibility/)
 * [*Video* on Genome assembly](https://www.youtube.com/watch?v=sysnKQvqmnk)
 * [*Video* of a lecture at MIT on genome assembly](https://www.youtube.com/watch?v=ZYW2AeDE6wU)
 * [*Video* on Andrey Prjibelski presentation on SPAdes 3.1 (now is 3.11)](https://www.youtube.com/watch?v=vFA7BGzNMss)
