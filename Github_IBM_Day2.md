@@ -27,18 +27,10 @@ Raw coverage estimation is a good starting point for understanding if you have o
 Using FASTQC is pretty easy, but it might take some time to understand how to interpret the results. This [*Video*](https://www.youtube.com/watch?v=bz93ReOv87Y) explains step by step the use of FASTQC trough the GUI. 
 1. Read the FASTQC manual. The manual is in the following directory `./FastQC/Help/3 Analysis Modules`  
 2. Evaluate the following reads **which one you would resequence?** 
-	* [SRR6044997](https://www.ebi.ac.uk/ena/data/view/SRR6044997) (QC evaluation can be download from [here](https://www.dropbox.com/sh/zt3gcfkq9t6dbvb/AACaVuU3jbOjo8IrHE1DSqq0a?dl=0))
-		* R [1](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR604/007/SRR6044997/SRR6044997_1.fastq.gz) and [2](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR604/007/SRR6044997/SRR6044997_2.fastq.gz) before trimming
-		* R [1](https://www.dropbox.com/s/kd5p32oeq93wmv9/SRR6044997_1P.fastq.gz?dl=0) and [2](https://www.dropbox.com/s/4r5u0wfiiu4aar5/SRR6044997_2P.fastq.gz?dl=0) after trimming 
-		trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:149 HEADCROP:10 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
-	* [ERR840705](https://www.ebi.ac.uk/ena/data/view/ERR840705) (QC evaluation can be download from [here](https://www.dropbox.com/sh/m7rp2w5sfiypp17/AAA14MmV1m5bAH5X1hJBNLpqa?dl=0))
-		* R [1](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR840/ERR840705/ERR840705_1.fastq.gz) and [2](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR840/ERR840705/ERR840705_2.fastq.gz) before trimming
-		* R [1](https://www.dropbox.com/s/9v9u3xllkwc7sg3/ERR840705_1P.fastq.gz?dl=0) and [2](https://www.dropbox.com/s/2hchiqtt8znf28x/ERR840705_2P.fastq.gz?dl=0) after trimming 
-		trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:151 HEADCROP:3 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
-	* [SRR5575009](https://www.ebi.ac.uk/ena/data/view/SRR5575009) (QC evaluation can be download from [here](https://www.dropbox.com/sh/05ziuunglesym3y/AAC6zby73qOj_UjlHqJ_OA1Ca?dl=0))
-		* R [1](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR557/009/SRR5575009/SRR5575009_1.fastq.gz) and [2](ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR557/009/SRR5575009/SRR5575009_2.fastq.gz) before trimming
-		* R [1](https://www.dropbox.com/s/9jucxjms632h8jy/SRR5575009_1P.fastq.gz?dl=0) and [2](https://www.dropbox.com/s/9ksne5wcd8yvmfv/SRR5575009_2P.fastq.gz?dl=0) after trimming 
-		trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:248 HEADCROP:15 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
+(*Note*: from the directory of each sample click the accession number and you can find two directories `fastqc_first_run` which contains an html file for both reads before the trimming and `fastqc_first_run` which contains an html file for both reads after the trimming 
+	* [SRR6044997](https://www.ebi.ac.uk/ena/data/view/SRR6044997) - You can download the full QC evaluation from [here](https://www.dropbox.com/sh/zt3gcfkq9t6dbvb/AACaVuU3jbOjo8IrHE1DSqq0a?dl=0); trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:149 HEADCROP:10 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
+	* [ERR840705](https://www.ebi.ac.uk/ena/data/view/ERR840705)- You can download the full QC evaluation from [here](https://www.dropbox.com/sh/m7rp2w5sfiypp17/AAA14MmV1m5bAH5X1hJBNLpqa?dl=0); trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:151 HEADCROP:3 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
+	* [SRR5575009](https://www.ebi.ac.uk/ena/data/view/SRR5575009)- You can download the full QC evaluation from  [here](https://www.dropbox.com/sh/05ziuunglesym3y/AAC6zby73qOj_UjlHqJ_OA1Ca?dl=0); trimming was performed with [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): CROP:248 HEADCROP:15 ILLUMINACLIP SLIDINGWINDOW:5:20 LEADING:3 TRAILING:3 MINLEN:55 TOPHRED33
 ### From raw short reads to an assembly
 #### Suggested readings and videos
 * [M.Watson post on short proteins in long-read single molecule assembly](http://www.opiniomics.org/with-great-power-comes-great-responsibility/)
