@@ -12,4 +12,5 @@ The aim of the course is to provide participants with basic knowledge of bioinfo
 
 - Attendance [Day 1](https://ec.europa.eu/eusurvey/runner/fd6e921b-0544-2152-ecce-5b8496a89656)
 - Attendance [Day 2](https://ec.europa.eu/eusurvey/runner/IBMDAY2)
+- Attendance [Day 3](https://ec.europa.eu/eusurvey/runner/IBMDay3)
 > Written with [StackEdit](https://stackedit.io/).
