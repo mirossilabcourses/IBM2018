@@ -54,8 +54,8 @@ INNUca is written in `python`and it requires a lot of dependencies. Fortunately 
 I will show you how to run it using [Docker for Mac](https://docs.docker.com/docker-for-mac/install/), but please note there is also [Docker for Windows 10](https://docs.docker.com/docker-for-windows/install/) which works exactly the same (and of course you can run docker in Linux too). 
 I will also give you some tips, and believe me **IT IS REALLY SIMPLE**. A [tutorial](https://github.com/INNUENDOCON/MicrobialGenomeMetagenomeCourse/blob/master/MPM_workingwithINNUCA.md) on INNUca using docker was written for a course organised last year.
 Below the **INNUca** basic command using docker image.
-# You should specify where the output goes whenever there is an option to do that.
-# Whenever possible use the option to specify the number of CPUs/threads to be used
+*You should specify where the output goes whenever there is an option to do that.*
+*Whenever possible use the option to specify the number of CPUs/threads to be used.*
 ```
 #download the docker image
 docker pull ummidock/innuca:3.2
