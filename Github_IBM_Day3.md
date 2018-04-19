@@ -5,13 +5,23 @@
 ### Program of the day
 
 * 10'  - What have you learn from day 2?
+* 45' - Functional annotation of genes and orthology definition
+* 15' - Break
 * 35' - What species did I sequence?
 * 15' - Break
 * 45' - Variant calling 
-* 15' - Break
-* 45' - Functional annotation of genes and orthology definition
 * 10' - Homework 
 *  5' - Self-assessment 
+### Functional annotation of genes and orthology definition
+#### Suggested readings
+
+*working in progress*
+https://www.nature.com/articles/nrmicro751
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531125/
+http://www.orthodb.org/v9.1/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2845645/
+
 ### What species did I sequence?
 Frequently the first action you would like to perform after receiving the sequences is checking the species of your sample, or in case you are studying a novel taxon, you would like to compare the samples with known species. Some pipelines, such as `INNUca`, have implemented several modules including species confirmation steps. For example, you might infer the species by calling (or try to) the MLST type (if a schema is available). For doing that `INNUca` call a very nice software designed by T. Seemann: [*mlst*](https://github.com/tseemann/mlst). The software scans contig files against traditional [PubMLST](https://pubmlst.org/databases/) typing schemes and giving the ST. The software it is very easy to use also in command line just by typing `% mlst contigs.fa` after you have installed it in a Linux OS. You can do manually what *mlst* does by e.g. going to one of the available PubMLST database and call the ST of your sample after uploading the contig file. 
 
@@ -30,8 +40,6 @@ Similarly to what discussed above, frequently we need to measure how much two or
 3. MultiLocus Sequence Typing 
 #### Activity 3 - Explore EnteroBase resources
 EnteroBase is a fantastic resource for who is interested in exploring diversity of *Salmonella enterica*, *Escherichia coli* and *Yersinia*. Go to [EnteroBase website](http://enterobase.warwick.ac.uk/species/index/senterica) and sign-up. Click on `Escherichia/Shigella`. Click `Load Workspace` from the red box on top-right of the site. Load the dataset 4395. Perform `cgMLST` and `SNP analysis`. Compare the results.
-### Functional annotation of genes and orthology definition
-*working in progress* 
 ### Homework
 Select one of the resources listed below and perform comparative analysis on a group of bacteria or virus of your choice.
 Prepare a 15 minute presentation including:
