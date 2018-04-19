@@ -10,6 +10,6 @@ The aim of the course is to provide participants with basic knowledge of bioinfo
 | [5]() tba  | Phylogenetic methods|Thu-03.05.18 13:00-16:00 (EE-building, B347)|
 | [6]() tba  |Introduction to metagenomics & R|Fri-04.05.18 13:00-16:00 (EE-building, B347)|
 
-Attendance [Day 1](https://ec.europa.eu/eusurvey/runner/fd6e921b-0544-2152-ecce-5b8496a89656)
-Attendance [Day 2](https://ec.europa.eu/eusurvey/runner/IBMDAY2)
+- Attendance [Day 1](https://ec.europa.eu/eusurvey/runner/fd6e921b-0544-2152-ecce-5b8496a89656)
+- Attendance [Day 2](https://ec.europa.eu/eusurvey/runner/IBMDAY2)
 > Written with [StackEdit](https://stackedit.io/).
