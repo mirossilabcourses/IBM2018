@@ -19,7 +19,7 @@
 * [Comparative genomics, minimal gene-sets and the last universal common ancestor](https://www.nature.com/articles/nrmicro751)
 #### BLAST
 * [The BLAST Sequence Analysis Tool - NCBI Handbook](https://www.ncbi.nlm.nih.gov/books/NBK153387/)
-* [BLAST web guidelines](ftp://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf)
+* BLAST web guidelines: ftp://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf
 * [Genome workbench - local GUI based platform for running study your genome and running BLAST locally on a laptop](https://www.ncbi.nlm.nih.gov/tools/gbench/)
 #### Activity 1
 
