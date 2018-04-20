@@ -15,7 +15,7 @@
 ### Functional annotation of genes and orthology definition
 #### Suggested readings
 * [Getting Started in Gene Orthology and Functional Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2845645/)
-* [An Introduction to Sequence Similarity (“Homology”) Searching](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/
+* [An Introduction to Sequence Similarity (“Homology”) Searching](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820096/)
 * [Comparative genomics, minimal gene-sets and the last universal common ancestor](https://www.nature.com/articles/nrmicro751)
 #### BLAST
 * [The BLAST Sequence Analysis Tool - NCBI Handbook](https://www.ncbi.nlm.nih.gov/books/NBK153387/)
