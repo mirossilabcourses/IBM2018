@@ -37,6 +37,7 @@ Using FASTQC is pretty easy, but it might take some time to understand how to in
 * [*Video* on Genome assembly](https://www.youtube.com/watch?v=sysnKQvqmnk)
 * [*Video* of a lecture at MIT on genome assembly](https://www.youtube.com/watch?v=ZYW2AeDE6wU)
 * [*Video* on Andrey Prjibelski presentation on SPAdes 3.1 (now is 3.11)](https://www.youtube.com/watch?v=vFA7BGzNMss)
+- Note: I just found a post from T.Seeman about assemblers *"Most de Bruijn  graph assemblers are highly tuned to a specific coverage ~100 and a specific errors rate <1%."*
 ###  Quality assessment of the assembly 
 #### Activity 3 - Explore INNUca sample statistics report
 `INNUca` offers an efficient bacterial *de novo* assembly pipeline with integrated QA/QC steps. The workflow allow the user to control the assembly process and identify reasons responsible of producing assemblies of low or not sufficient uality. For this activity you will explore the INNUca sample statistics report using the application INNUENDO platform developed within the project [INNUENDO](http://www.innuendoweb.org) which I coordinate. The platform have been developed by an amazing [team of students leaded by Dr. João Carriço from University of Lisbon](https://github.com/B-UMMI).
