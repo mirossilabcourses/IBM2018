@@ -58,6 +58,7 @@ Prepare a 15 minute presentation including:
 3. Results 
 4. Share your comments on the resource you used for performing the analysis
 5. One question for discussing in class
+
 Send me the group name and members by 24th of April and your presentation the morning of 2nd of May.
 #### Suggested reading
 [Paper comparing platform for bacterial annotation and comparative genomics](https://www.sciencedirect.com/science/article/pii/S0168165617315225?via%3Dihub)
