@@ -4,7 +4,7 @@
 
 ### Program of the day
 
-* 15' - Summary of week 1
+* 30' - Introduction of BLAST
 * 30' - Student Presentation - group 1
 *   5' - Break 
 * 30' - Student Presentation - group 2 
