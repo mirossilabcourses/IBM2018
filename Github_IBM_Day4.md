@@ -28,11 +28,17 @@ First you need to generate the *comparison files*. Click on [DoubleACT](http://w
 If you have [Java Web Start]() installed, in the ACT webpage click `Lunch` (selecting the right memory). Alternativelly download the Java binary for your OS. 
 > In `File>Open` selected the gbk file of *genome1* and of *genome2* and the load the *comparison file* (genome_blast.result) and click `Apply`. Note: all the files are available in the result page of DoubleACT.
 
+#### Visualizing lists and tables
+Frequently as results of comparitive genomics you need to compare lists or visualize complex tables.
+A simple and very popular way to visualize and compare lists is using Venn diagrams. Although you can build a Venn diagram manually, there are ways to do it programmatelly and a simple web application such as [Venny](http://bioinfogp.cnb.csic.es/tools/venny/) which can be very useful. 
+The purpose of the application [Circos Table Viewer](http://mkweb.bcgsc.ca/tableviewer/) is to turn complex tables (e.g. how many genes of a peculiar functional group is present in sample A vs B) into an informative and attractive visualizations. It uses the [Circos](http://circos.ca/) application to turn data tables into chord diagrams. 
 
+For this tutorial we will going to use the example data provided by the applications. 
+
+#### Other very usefull tools
 * [Mauve](http://darlinglab.org/mauve/mauve.html)
 * [BLAST Ring Image Generator (BRIG)](http://brig.sourceforge.net/)
 * [Phandango](https://github.com/jameshadfield/phandango)
-* [Circos Table Viewer](http://mkweb.bcgsc.ca/tableviewer/)
 
 
 > Written with [StackEdit](https://stackedit.io/).
