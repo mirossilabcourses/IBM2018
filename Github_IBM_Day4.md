@@ -32,7 +32,7 @@ If you have [Java Web Start]() installed, in the ACT webpage click `Lunch` (sele
 Frequently as results of comparitive genomics you need to compare lists or visualize complex tables.
 A simple and very popular way to visualize and compare lists is using Venn diagrams. Although you can build a Venn diagram manually, there are ways to do it programmatelly and a simple web application such as [Venny](http://bioinfogp.cnb.csic.es/tools/venny/) which can be very useful. 
 
-The purpose of the application [Circos Table Viewer](http://mkweb.bcgsc.ca/tableviewer/) is to turn complex tables (e.g. how many genes of a peculiar functional group is present in sample A vs B) into an informative and attractive visualizations. It uses the [Circos](http://circos.ca/) application to turn data tables into chord diagrams. 
+The purpose of the application [Circos Table Viewer](http://mkweb.bcgsc.ca/tableviewer/) is to turn complex tables (e.g. how many genes of a peculiar functional group are present in sample A vs B) into an informative and attractive visualizations. It uses the [Circos](http://circos.ca/) application to turn data tables into chord diagrams. 
 
 For this tutorial we will going to use the example data provided by the applications. 
 
