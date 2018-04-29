@@ -25,7 +25,7 @@ There are several methodologies which can be used for visualizing genome compari
 First you need to generate the *comparison files*. Click on [DoubleACT](http://www.hpa-bioinfotools.org.uk/pise/double_actv2.html). 
 > Select among the available genomes two of your interest (for this demo I will select *C. jejuni* 11168 and *C. jejuni* RM1221), then select which BLAST approach to use (BLASTn or tBLASTx). Enter an email address and click on the “Run genome-blast” button. The results page will display the comparison file as 'genome_blast.result' by default. If the genomes were selected from the drop-down lists they will be available for download as annotated genbank files (genome1.gbk and genome2.gbk). 
 
-If you have [Java Web Start]() installed, in the ACT webpage click `Lunch` (selecting the right memory). Alternativelly download the Java binary for your OS. 
+If you have [Java Web Start](http://www.oracle.com/technetwork/java/javase/tech/archive-download-142935.html) installed, in the ACT webpage click `Lunch` (selecting the right memory). Alternativelly download the Java binary for your OS. 
 > In `File>Open` selected the gbk file of *genome1* and of *genome2* and the load the *comparison file* (genome_blast.result) and click `Apply`. Note: all the files are available in the result page of DoubleACT.
 
 #### Visualizing lists and tables
