@@ -29,7 +29,7 @@ If you have [Java Web Start]() installed, in the ACT webpage click `Lunch` (sele
 > In `File>Open` selected the gbk file of *genome1* and of *genome2* and the load the *comparison file* (genome_blast.result) and click `Apply`. Note: all the files are available in the result page of DoubleACT.
 
 #### Visualizing lists and tables
-Frequently as results of comparitive genomics you need to compare lists or visualize complex tables.
+Frequently during comparitive genomics studies you need to compare lists or visualize complex tables.
 A simple and very popular way to visualize and compare lists is using Venn diagrams. Although you can build a Venn diagram manually, there are ways to do it programmatelly and a simple web application such as [Venny](http://bioinfogp.cnb.csic.es/tools/venny/) which can be very useful. 
 
 The purpose of the application [Circos Table Viewer](http://mkweb.bcgsc.ca/tableviewer/) is to turn complex tables (e.g. how many genes of a peculiar functional group are present in sample A vs B) into an informative and attractive visualizations. It uses the [Circos](http://circos.ca/) application to turn data tables into chord diagrams. 
