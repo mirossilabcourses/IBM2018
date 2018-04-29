@@ -14,7 +14,7 @@
 * 45' - Visualization of genomic comparisons
 
 ### Introduction of BLAST
-Detailed description of the statistics of Sequence Similarity Scores in BLAST is available [here](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-1.html). A description of the BLAST result page is available in this link ftp://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_NewBLAST.pdf
+Detailed description of the statistics of Sequence Similarity Scores in BLAST is available [here](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-1.html).
 ### Student presentations
 Each group will have 15 minutes for presenting their results and a summary of the resources they used. After each presentation 15 minutes of discussion will follow, covering theoretical and practical aspects of genome comparison performed by the group.
 ### Visualization of genomic comparisons
